@@ -1,6 +1,4 @@
-<h1 align="center">
- <img src="https://github.com/topics/gifs?o=desc&s=updated" />
-</h1>
+![banner](https://github.com/BHAVESH783/BHAVESH783/assets/73656541/f02dff9b-d623-4cda-8ad5-a880535fd939)
 <h1 align="center">Hi 👋, I'm Bhavesh Harwani</h1>
 <h3 align="center">Passionate MERN Stack Developer | Code, Commit, Conquer 💻 | Building a Smarter, Connected Future 🌐🤖</h3>
 

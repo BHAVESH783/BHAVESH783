@@ -1,3 +1,6 @@
+<h1 align="center">
+ <img src="https://github.com/topics/gifs?o=desc&s=updated" />
+</h1>
 <h1 align="center">Hi 👋, I'm Bhavesh Harwani</h1>
 <h3 align="center">Passionate MERN Stack Developer | Code, Commit, Conquer 💻 | Building a Smarter, Connected Future 🌐🤖</h3>
 
